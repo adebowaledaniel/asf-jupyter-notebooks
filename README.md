@@ -1,4 +1,4 @@
-https://mybinder.org/v2/gh/adebowaledaniel/asf-jupyter-notebooks/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adebowaledaniel/asf-jupyter-notebooks/master)
 
 # ASF Jupyter Notebooks
 __Where python meets fun!!__
